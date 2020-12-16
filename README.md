@@ -10,12 +10,12 @@ Biorxiv, 2020.
 
 ## Synapse detection
 
-Synapses are detected based on
+Synapses are detected based on local measures of shape and brightness.
 
 ## Overlap quantification
 
-Accuracy measures are quantified.
+Accuracy is quantified by comparing synapses segmented from more than one method.
 
 ## Intensity quantification
 
-Intensity measures are quantified
+Intensity measures are quantified in each synapse to describe population behaviour.
